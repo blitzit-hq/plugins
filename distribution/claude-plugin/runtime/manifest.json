@@ -1,0 +1,67 @@
+{
+  "version": "1.1.0",
+  "host": "claude",
+  "command": "node \"${CLAUDE_PLUGIN_ROOT}/runtime/blitzit.mjs\"",
+  "files": [
+    {
+      "path": ".claude-plugin/plugin.json",
+      "sha256": "645b790063b88b9bed686e08a4e8d3ec797e60db766d7615176e0a29fbfffa19",
+      "bytes": 333
+    },
+    {
+      "path": "bin/blitzit-hook",
+      "sha256": "4422022068769af82fe5960201b22293011e41c88b77fad456a63db311b9dabe",
+      "bytes": 119
+    },
+    {
+      "path": "commands/link.md",
+      "sha256": "bc78ab4f870080bdcdc03e9f27ea01b4e214a2996ac997a6ef89dc0099fa9f51",
+      "bytes": 1685
+    },
+    {
+      "path": "commands/lists.md",
+      "sha256": "ed837d558a59c5071166e71dbf6f268cb61ea366dc2d14b0194466c525ad7ada",
+      "bytes": 441
+    },
+    {
+      "path": "commands/new.md",
+      "sha256": "98d488f4c410d8b0dd49eaeb0eaad679e3cc55ca26b5f004cd90078cc2b43daa",
+      "bytes": 663
+    },
+    {
+      "path": "commands/sync.md",
+      "sha256": "31fc3c9a294f89d344b2a651868d865bcf1a4b2c02ce0bd79f963bc8e2eb5f8f",
+      "bytes": 339
+    },
+    {
+      "path": "commands/today.md",
+      "sha256": "db5546771540c9d5f631768fc7cf9d71db9db4144cfb64386e143092dac15af3",
+      "bytes": 491
+    },
+    {
+      "path": "hooks/hooks.json",
+      "sha256": "11268aaba7832f669973b643745e486e221d9d22f80422e8f75d7bca50166c81",
+      "bytes": 1684
+    },
+    {
+      "path": "README.md",
+      "sha256": "c658d79c088d7232296e88923c7389187bb5924d3f08f49c35b50f22e6071535",
+      "bytes": 2815
+    },
+    {
+      "path": "runtime/blitzit.mjs",
+      "sha256": "b6fc7e048c051502290f4967a42fdaca6aa2d3e832270f15e88c337258eb2a1c",
+      "bytes": 2270341
+    },
+    {
+      "path": "skills/blitzit-manager/SKILL.md",
+      "sha256": "6de740e6a4c69cb68131ba651b427a5e2318b131696e900f2b2517bbcdb11969",
+      "bytes": 4922
+    },
+    {
+      "path": "skills/blitzit-tasks/SKILL.md",
+      "sha256": "327afee44794b927da109f146d82e5b125e827952100b0c4cd2270d8b7aae430",
+      "bytes": 2598
+    }
+  ]
+}

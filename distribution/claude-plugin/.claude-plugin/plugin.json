@@ -1,0 +1,16 @@
+{
+  "name": "blitzit",
+  "description": "Tracks coding conversations and manages Blitzit tasks without controlling focus timers.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Blitzit"
+  },
+  "homepage": "https://blitzit.app",
+  "keywords": [
+    "blitzit",
+    "tasks",
+    "productivity",
+    "todo",
+    "time-tracking"
+  ]
+}

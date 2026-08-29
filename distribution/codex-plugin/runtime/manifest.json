@@ -1,0 +1,62 @@
+{
+  "version": "1.1.0",
+  "host": "codex",
+  "command": "node \"${CODEX_HOME:-$HOME/.codex}/plugins/cache/blitzit/blitzit/1.1.0/runtime/blitzit.mjs\"",
+  "files": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "sha256": "f1514f9da84fcbe27c834ccc8d1b417e5d783c325297ea7287b91b608e3e89c4",
+      "bytes": 935
+    },
+    {
+      "path": "commands/link.md",
+      "sha256": "e8f89a72199669678b3d6a88393dd8d0b4349099c991217390540defd4718710",
+      "bytes": 1853
+    },
+    {
+      "path": "commands/lists.md",
+      "sha256": "95aa5a8ab04db6ad12533f198cd346abe7afabc11874b9dc51965667709b8871",
+      "bytes": 567
+    },
+    {
+      "path": "commands/new.md",
+      "sha256": "e64cee0c86dea2dad6ffcbcd48f8c1a28dbd3daeb5b142ac733710c6e43b29eb",
+      "bytes": 789
+    },
+    {
+      "path": "commands/sync.md",
+      "sha256": "6a748f35617138905204c9b345343f4d9aaa95c3f6f08224a92934482205dbc5",
+      "bytes": 423
+    },
+    {
+      "path": "commands/today.md",
+      "sha256": "b2b781d26417bb64877b7b25075e174c68ffa90afec9b3167555d0a143fcd97d",
+      "bytes": 617
+    },
+    {
+      "path": "hooks.json",
+      "sha256": "06c57f57244d0db9f19764dcf9e98189d92d00a06d00af156fcbf801bad33a80",
+      "bytes": 1437
+    },
+    {
+      "path": "README.md",
+      "sha256": "1cd96b54a4cdb72595df6a8d689e47dc56a4eed980904dc41bbab17e3f911d2d",
+      "bytes": 2857
+    },
+    {
+      "path": "runtime/blitzit.mjs",
+      "sha256": "b6fc7e048c051502290f4967a42fdaca6aa2d3e832270f15e88c337258eb2a1c",
+      "bytes": 2270341
+    },
+    {
+      "path": "skills/blitzit-manager/SKILL.md",
+      "sha256": "d37762bbec70552c15ae91f1544cc48f1848bc1566b9164aeec5e363fec4cf5c",
+      "bytes": 6014
+    },
+    {
+      "path": "skills/blitzit-tasks/SKILL.md",
+      "sha256": "380e78c36a7ede919591f81ff2cebef330e71ea6a5540e060ba176371f905517",
+      "bytes": 2934
+    }
+  ]
+}

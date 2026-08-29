@@ -1,0 +1,33 @@
+{
+  "name": "blitzit",
+  "version": "1.1.0",
+  "description": "Tracks coding conversations and manages Blitzit tasks without controlling focus timers.",
+  "author": {
+    "name": "Blitzit",
+    "email": "support@blitzit.app",
+    "url": "https://blitzit.app"
+  },
+  "homepage": "https://blitzit.app",
+  "license": "MIT",
+  "keywords": [
+    "blitzit",
+    "tasks",
+    "todo",
+    "productivity",
+    "time-tracking"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Blitzit",
+    "shortDescription": "Track coding work and manage Blitzit tasks",
+    "longDescription": "Tracks coding conversations automatically and lets the agent manage Blitzit lists and tasks.",
+    "defaultPrompt": "Help me inspect or update my Blitzit lists and tasks.",
+    "developerName": "Blitzit",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://blitzit.app"
+  }
+}

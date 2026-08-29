@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "blitzit",
+  "description": "Blitzit — automatic task and time tracking for coding agents",
+  "owner": {
+    "name": "Blitzit",
+    "email": "support@blitzit.app"
+  },
+  "plugins": [
+    {
+      "name": "blitzit",
+      "description": "Turns every conversation into a Blitzit task and records the time it takes — tracking runs silently in the background. The agent keeps a live subtask checklist on that task, so its plan survives compaction and you watch progress in your task app.",
+      "author": {
+        "name": "Blitzit"
+      },
+      "category": "productivity",
+      "homepage": "https://blitzit.app",
+      "source": "./distribution/claude-plugin",
+      "version": "1.1.0"
+    }
+  ]
+}
