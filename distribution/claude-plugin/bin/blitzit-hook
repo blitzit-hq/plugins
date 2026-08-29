@@ -1,4 +1,8 @@
 #!/bin/sh
-set -eu
+set -u
+if [ "${BLITZIT_HOOK_DEBUG:-}" != "1" ]; then
+  exec 2>/dev/null
+fi
 root=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
 node "$root/runtime/blitzit.mjs" "$@" || exit 0
+exit 0

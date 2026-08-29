@@ -10,8 +10,8 @@
     },
     {
       "path": "bin/blitzit-hook",
-      "sha256": "4422022068769af82fe5960201b22293011e41c88b77fad456a63db311b9dabe",
-      "bytes": 119
+      "sha256": "cdd522b0403636463d25cefd19a4a0b989a606c5a952c93bae0a18f0e7f876e8",
+      "bytes": 193
     },
     {
       "path": "commands/link.md",
