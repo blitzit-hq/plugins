@@ -45,8 +45,8 @@
     },
     {
       "path": "runtime/blitzit.mjs",
-      "sha256": "b6fc7e048c051502290f4967a42fdaca6aa2d3e832270f15e88c337258eb2a1c",
-      "bytes": 2270341
+      "sha256": "2ec5b1bde5d0611cc37b8c13a9c6bcb3288f739b8a220096628b6187c7ede07e",
+      "bytes": 2270375
     },
     {
       "path": "skills/blitzit-manager/SKILL.md",
