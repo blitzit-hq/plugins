@@ -598,11 +598,12 @@ var init_config = __esm({
     init_errors();
     init_fs_lock();
     init_fs_safe();
-    DEFAULT_API_URL = "https://v3.blitzit.app";
+    DEFAULT_API_URL = "https://core.blitzit.app";
     LEGACY_DEFAULT_API_URLS = /* @__PURE__ */ new Set([
       "http://localhost:3000",
       "http://127.0.0.1:3000",
-      "https://api.blitzit.app"
+      "https://api.blitzit.app",
+      "https://v3.blitzit.app"
     ]);
     LOCAL_HOSTS = /* @__PURE__ */ new Set(["localhost", "127.0.0.1", "[::1]", "::1", "0.0.0.0"]);
     LOCAL_STATE_FILES = [
